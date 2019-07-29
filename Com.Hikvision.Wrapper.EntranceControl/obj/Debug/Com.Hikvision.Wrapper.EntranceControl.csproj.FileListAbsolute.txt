@@ -1,0 +1,9 @@
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\bin\Debug\Com.Hikvision.Wrapper.EntranceControl.dll
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\bin\Debug\Com.Hikvision.Wrapper.EntranceControl.pdb
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\bin\Debug\Com.Hikvision.Wrapper.Core.dll
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\bin\Debug\Com.Hikvision.Wrapper.Core.pdb
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\obj\Debug\Com.Hikvision.Wrapper.EntranceControl.csprojAssemblyReference.cache
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\obj\Debug\Com.Hikvision.Wrapper.EntranceControl.csproj.CoreCompileInputs.cache
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\obj\Debug\Com.Hikvision.Wrapper.EntranceControl.csproj.CopyComplete
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\obj\Debug\Com.Hikvision.Wrapper.EntranceControl.dll
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.EntranceControl\obj\Debug\Com.Hikvision.Wrapper.EntranceControl.pdb

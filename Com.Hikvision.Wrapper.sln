@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{234CF0D2-46EA-44E0-90F3-0D18182D1206}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{78094371-00AF-4A83-8167-0A4E545B50A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{B8F45BFB-468B-464B-9D52-8AAE14D31E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Hikvision.Wrapper.Core", "Com.Hikvision.Wrapper.Core\Com.Hikvision.Wrapper.Core.csproj", "{7B10DE47-ABA7-494F-9082-56A343EB45AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Hikvision.Wrapper.EntranceControl", "Com.Hikvision.Wrapper.EntranceControl\Com.Hikvision.Wrapper.EntranceControl.csproj", "{54D98060-67C8-4CDA-B5CC-7DFD3E21FCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Hikvision.Wrapper.Service.EntranceControl", "Com.Hikvision.Wrapper.Service.EntranceControl\Com.Hikvision.Wrapper.Service.EntranceControl.csproj", "{9B1AD290-AD3A-4504-80E3-C8DCF472B46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Hikvision.Wrapper.Application.EntranceControl", "Com.Hikvision.Wrapper.Application.EntranceControl\Com.Hikvision.Wrapper.Application.EntranceControl.csproj", "{C63A137A-D53B-4006-8B95-DB6BB1EC9FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Hikvision.Wrapper.Service.Test", "Com.Hikvision.Wrapper.Service.Test\Com.Hikvision.Wrapper.Service.Test.csproj", "{334CED8B-1FC7-494D-A698-18585EBA095D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{B43BC85E-71F7-4692-967E-12FCB718A01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B10DE47-ABA7-494F-9082-56A343EB45AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B10DE47-ABA7-494F-9082-56A343EB45AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B10DE47-ABA7-494F-9082-56A343EB45AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B10DE47-ABA7-494F-9082-56A343EB45AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D98060-67C8-4CDA-B5CC-7DFD3E21FCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D98060-67C8-4CDA-B5CC-7DFD3E21FCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D98060-67C8-4CDA-B5CC-7DFD3E21FCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D98060-67C8-4CDA-B5CC-7DFD3E21FCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1AD290-AD3A-4504-80E3-C8DCF472B46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1AD290-AD3A-4504-80E3-C8DCF472B46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1AD290-AD3A-4504-80E3-C8DCF472B46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1AD290-AD3A-4504-80E3-C8DCF472B46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63A137A-D53B-4006-8B95-DB6BB1EC9FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63A137A-D53B-4006-8B95-DB6BB1EC9FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63A137A-D53B-4006-8B95-DB6BB1EC9FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63A137A-D53B-4006-8B95-DB6BB1EC9FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334CED8B-1FC7-494D-A698-18585EBA095D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334CED8B-1FC7-494D-A698-18585EBA095D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334CED8B-1FC7-494D-A698-18585EBA095D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334CED8B-1FC7-494D-A698-18585EBA095D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B10DE47-ABA7-494F-9082-56A343EB45AA} = {78094371-00AF-4A83-8167-0A4E545B50A1}
+		{54D98060-67C8-4CDA-B5CC-7DFD3E21FCB7} = {78094371-00AF-4A83-8167-0A4E545B50A1}
+		{9B1AD290-AD3A-4504-80E3-C8DCF472B46D} = {B8F45BFB-468B-464B-9D52-8AAE14D31E34}
+		{C63A137A-D53B-4006-8B95-DB6BB1EC9FCB} = {234CF0D2-46EA-44E0-90F3-0D18182D1206}
+		{334CED8B-1FC7-494D-A698-18585EBA095D} = {B43BC85E-71F7-4692-967E-12FCB718A01B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290176DF-470C-48BF-B0CC-FC0A689EC588}
+	EndGlobalSection
+EndGlobal

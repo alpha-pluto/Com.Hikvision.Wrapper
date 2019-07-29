@@ -1,0 +1,6 @@
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.Core\bin\Debug\Com.Hikvision.Wrapper.Core.dll
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.Core\bin\Debug\Com.Hikvision.Wrapper.Core.pdb
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.Core\obj\Debug\Com.Hikvision.Wrapper.Core.csprojAssemblyReference.cache
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.Core\obj\Debug\Com.Hikvision.Wrapper.Core.csproj.CoreCompileInputs.cache
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.Core\obj\Debug\Com.Hikvision.Wrapper.Core.dll
+E:\workspaces\workspace-donet\Com.Hikvision.Wrapper\Com.Hikvision.Wrapper.Core\obj\Debug\Com.Hikvision.Wrapper.Core.pdb
