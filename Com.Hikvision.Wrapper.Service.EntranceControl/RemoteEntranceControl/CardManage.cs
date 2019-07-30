@@ -52,7 +52,7 @@ namespace Com.Hikvision.Wrapper.Service.EntranceControl.RemoteEntranceControl
 
         public CHCNetSDK.RemoteConfigCallback GetRemoteConfigDelegate { get; private set; }
 
-        public CHCNetSDK.RemoteConfigCallback SetRemoteConfigDelegare { get; private set; }
+        public CHCNetSDK.RemoteConfigCallback SetRemoteConfigDelegate { get; private set; }
 
         /// <summary>
         /// 处理卡查询回调的函数
@@ -338,9 +338,9 @@ namespace Com.Hikvision.Wrapper.Service.EntranceControl.RemoteEntranceControl
             #region start remote config 启动长连接配置
 
             if (null == cbSetRemoteConfig)
-                SetRemoteConfigDelegare = new CHCNetSDK.RemoteConfigCallback(ProcessCardInsertCallback);
+                SetRemoteConfigDelegate = new CHCNetSDK.RemoteConfigCallback(ProcessCardInsertCallback);
             else
-                SetRemoteConfigDelegare = cbSetRemoteConfig;
+                SetRemoteConfigDelegate = cbSetRemoteConfig;
 
             hndRemoteConfig = logicCardManage.StartRemoteConfigForCardInsert(iUserId, GetRemoteConfigDelegate, ptrUserData, userInfo);
 
